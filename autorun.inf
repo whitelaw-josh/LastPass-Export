@@ -1,0 +1,4 @@
+[autorun]
+ OPEN=Cygwin.bat
+ ICON=Cygwin.ico
+ UseAutoPlay=1
